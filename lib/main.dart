@@ -6,9 +6,9 @@ void main() {
   runApp(MyApp());
 }
 
-class MyApp extends StatelessWidget {
+
   // This widget is the root of your application.
-  @override
+class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
